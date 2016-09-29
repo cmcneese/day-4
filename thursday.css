@@ -1,0 +1,13 @@
+body {
+  background: purple
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
